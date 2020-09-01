@@ -1,8 +1,30 @@
-# Final-Year-Project
-8th sem Final year Project of VTU 
+# VTU 8th sem Final Year Project
+This is a Machine Learning Project, based on Bengaluru House Price Prediction using Regression Models.
 
-This is our Final year Project which is Bengaluru House price prediction using Regression Models.
+## Installation
 
-To run this project:
-1) Goto to Server folder -> In terminal type:   python server.py
-2) Goto client Folder  -> Open app.html
+To run the project, perform the following tasks.
+
+Goto the ***Server*** Folder then run: 
+
+```bash
+python server.py
+```
+
+Goto the ***Client*** Folder then open
+```bash
+app.html
+```
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+If you want the report of project email me: **menishantgautam@gmail.com**
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Screenshot](sample.png)
