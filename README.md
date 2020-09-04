@@ -16,6 +16,13 @@ Goto the ***Client*** Folder then open
 app.html
 ```
 
+## Have these things installed:
+1) Anaconda   https://docs.anaconda.com/anaconda/install/
+2) Python
+3) flask
+4) Vs code 
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
