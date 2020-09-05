@@ -20,7 +20,7 @@ app.html
 1) Anaconda   https://docs.anaconda.com/anaconda/install/
 2) Python
 3) flask
-4) Vs code 
+4) Vs code https://code.visualstudio.com/Download
 
 
 
